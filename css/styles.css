@@ -232,10 +232,6 @@ label {
   cursor: pointer;
 }
 
-.btn-submit:hover {
-  background-color: #45a049;
-}
-
 .container {
   border-radius: 5px;
   padding: 20px;
@@ -355,7 +351,7 @@ input[type=password], select {
     resize: vertical;
   }
 
-  input[type=submit]{
+  .btn-submit{
     width: 80%;
     margin-top: 10px;
   }

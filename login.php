@@ -36,7 +36,7 @@
                   </div>
                 </div>
               </div>
-              <button type="submit" id="submit" class="btn btn-primary btn-submit" name="button">Login</button>
+              <button type="submit" id="submit" class="btn btn-success btn-lg btn-submit" name="button">Login</button>
               <a href="" class="forgotpass">
                 <p>Forgot your password?</p>
               </a>
@@ -44,7 +44,7 @@
           </form>
           <form class="" action="register.php" method="post">
             <div class="form-group">
-              <button type="submit" id="submit" class="btn btn-primary btn-submit" name="button">New Register</button>
+              <button type="submit" id="submit" class="btn btn-success btn-lg btn-submit" name="button">New Register</button>
             </div>
           </form>
         </div>

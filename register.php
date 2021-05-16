@@ -44,7 +44,7 @@
                   </div>
                 </div>
               </div>
-              <button type="submit" id="submit" class="btn btn-success btn-lg btn-submit" name="button">Register</button>
+              <button type="submit" id="submit" class="btn btn-primary btn-submit" name="button">Register</button>
             </div>
           </form>
         </div>
